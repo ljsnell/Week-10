@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoSum {
+public class TwoSumExample {
 	static public int[] twoSum(int[] nums, int target) {
 		int[] indices = { 0, 0 };
 		int i, j;
