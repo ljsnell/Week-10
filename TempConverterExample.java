@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TempConverter {
+public class TempConverterExample {
 	static Scanner userinput = new Scanner(System.in);
 
 	static double convertToCelcius(String from, double temp) {
